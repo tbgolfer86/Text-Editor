@@ -28,11 +28,11 @@
   ## Usage
   This is a node application that is invoked in the command-line by using the command: `npm start`.
   Once the server is running, the user can create and edit text.<br><br>
-  This app is also being hosted on [Heroku]().<br><br>
+  This app is also being hosted on [Heroku](https://text-editor-uconn.herokuapp.com/).<br><br>
    This screenshot shows the app open in the browser:<br>
-  ![alt text]()<br><br>
+  ![alt text](./assets/images/Screenshot%202023-05-01%20at%208.34.09%20AM.png)<br><br>
    This screenshot shows the installed version of the app:<br>
-  ![alt text]()
+  ![alt text](./assets/images/Screenshot%202023-05-01%20at%208.35.15%20AM.png)
 
 ---
 
