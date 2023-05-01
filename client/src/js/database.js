@@ -39,8 +39,8 @@ export const getDb = async () => {
   const tx = jateDb.transaction('jate', 'readonly');
   // Open up the desired object store.
   const store = tx.objectStore('jate');
-  // Use the .getAll() method to get all data in the database.
-  const request = store.getAll();
+  // Use the .get() method to get all data in the database.
+  const request = store.get('jate');
   // Get confirmation of the request.
   const result = await request;
   console.log('result.value', result);
