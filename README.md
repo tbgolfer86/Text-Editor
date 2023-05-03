@@ -28,7 +28,8 @@
   ## Usage
   This is a node application that is invoked in the command-line by using the command: `npm start`.
   Once the server is running, the user can create and edit text in the browser by visiting the URL: localhost:3000. The app can then be installed locally and used without an internet connection if necessary.<br><br>
-  This app is also being hosted on [Heroku](https://text-editor-uconn.herokuapp.com/).<br><br>
+  This app is also being hosted on [Heroku](https://text-editor-uconn.herokuapp.com/).<br>
+  Disclaimer: This application may be disconnected from Heroku for billing purposes.<br><br>
    This screenshot shows the app open in the browser:<br>
   ![alt text](./assets/images/Screenshot%202023-05-01%20at%208.34.09%20AM.png)<br><br>
    This screenshot shows the installed version of the app:<br>
